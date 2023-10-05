@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Serge Aleshin-Guendel"
+title                    : "Yinyihong Liu"
 title_separator          : "-"
-name                     : &name "Serge Aleshin-Guendel"
-description              : &description "I'm a research mathematical statistician in the Center for Statistical Research and Methodology at the U.S. Census Bureau."
-url                      : https://aleshing.github.io
+name                     : &name "Yinyihong Liu"
+description              : &description "I'm a Master student of statistics at Duke University."
+url                      : https://emily0630.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aleshing/aleshing.github.io"
+repository               : "emily0630/emily0630.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Serge Aleshin-Guendel', 'serge.aleshin.guendel@census.gov', 'aleshing.github.io', 'message']
+  allowedFields          : ['Yinyihong Liu', 'yinyihong.liu@duke.edu']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Serge Aleshin-Guendel"
-  avatar           : "serge.jpg"
-  bio              : "He/Him/His"
+  name             : "Yinyihong Liu"
+  avatar           : "yinyihong.jpg"
+  bio              : "Sde/Her/Her"
   location         : 
-  employer         : "U.S. Census Bureau"
+  employer         : 
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=caVHF8wAAAAJ&hl=en"
-  email            : "serge.aleshin.guendel@census.gov"
+  googlescholar    : 
+  email            : "yinyihong.liu@duke.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aleshing"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "aleshings"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
